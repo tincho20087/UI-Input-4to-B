@@ -1468,7 +1468,7 @@ GameObject:
   - component: {fileID: 1420356827}
   - component: {fileID: 1420356826}
   m_Layer: 0
-  m_Name: SumaYResultadoUI
+  m_Name: SumaYResultado
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
